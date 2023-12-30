@@ -3,8 +3,8 @@
 ####
 *Workshops*
 - Challenge Day
-- Vulnerability Assessment 
-- Bash Training
+- [Vulnerability Assessment](https://docs.google.com/presentation/d/1ClEA5VmBKmM5NXQXfjdY-aImnPm-pKxnvqWGcmaOydA/edit?usp=sharing)
+- [Bash Training](https://docs.google.com/presentation/d/1hFHK7Jk5781yM9dm3Uh567RA3r1WjXhkb2DYWC_xLbw/edit?usp=sharing)
 - [Intro to Cybersecurity](https://docs.google.com/presentation/d/16rIOb4OXDLTl7fMJLLbRUieTu9z9kTiZHWUp6i-gKDE/edit?usp=sharing)
 
 *Contacts*
