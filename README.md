@@ -1,5 +1,10 @@
 # $ cat /home/laith/README.md
 
+#### *Contacts*
+..* laith.vercel.app: my personal website
+..* https://www.linkedin.com/in/laith-darras-52a407211/: my linkedin
+..* laith.s.darras@gmail.com: my email
+
 <!--
 **laithdarras/laithdarras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
