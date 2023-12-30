@@ -1,6 +1,13 @@
 # $ cat /home/laith/README.md
 
-#### *Contacts*
+####
+*Workshops*
+- Challenge Day
+- Vulnerability Assessment 
+- Bash Training
+- [Intro to Cybersecurity](https://docs.google.com/presentation/d/16rIOb4OXDLTl7fMJLLbRUieTu9z9kTiZHWUp6i-gKDE/edit?usp=sharing)
+
+*Contacts*
 - https://laith.vercel.app/: my personal website
 - https://www.linkedin.com/in/laith-darras-52a407211/: my linkedin
 - laith.s.darras@gmail.com: my email
