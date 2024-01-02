@@ -2,7 +2,7 @@
 
 ####
 
-*Affiliations
+*Affiliations*
 - [ACM UCM](https://ucm.acm.org/), Special Interest Group (SIG) Cybersecurity Lead '23 - '24
 - [HackMerced](https://hackmerced.com/), Organizer - logistics coordination '23 - '24
 
