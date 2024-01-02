@@ -1,6 +1,11 @@
 # $ cat /home/laith/README.md
 
 ####
+
+*Affiliations
+- [ACM UCM](https://ucm.acm.org/), Special Interest Group (SIG) Cybersecurity Lead '23 - '24
+- [HackMerced](https://hackmerced.com/), Organizer - logistics coordination '23 - '24
+
 *Workshops*
 - Challenge Day
 - [Vulnerability Assessment](https://docs.google.com/presentation/d/1ClEA5VmBKmM5NXQXfjdY-aImnPm-pKxnvqWGcmaOydA/edit?usp=sharing)
