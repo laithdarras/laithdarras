@@ -7,6 +7,8 @@
 - [HackMerced](https://hackmerced.com/), Organizer - logistics coordination '23 - '24
 
 *Workshops*
+- ![Challenge_Day](https://github.com/laithdarras/laithdarras/assets/78628119/988f96f7-80d4-4364-a923-dffebff44c09)
+
 - Challenge Day: In collaboration with the other SIGS, led and assisted solving challenges on OverTheWire bandit.
 - [Vulnerability Assessment](https://docs.google.com/presentation/d/1ClEA5VmBKmM5NXQXfjdY-aImnPm-pKxnvqWGcmaOydA/edit?usp=sharing), taught the students the process of assessing a vulnerability in a system with a live demo of using kali linux to analyze a malicious ip address.
 - [Bash Training](https://docs.google.com/presentation/d/1hFHK7Jk5781yM9dm3Uh567RA3r1WjXhkb2DYWC_xLbw/edit?usp=sharing), taught students how to write scripts in bash creating a series of simple games.
