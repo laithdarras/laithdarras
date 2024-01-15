@@ -5,7 +5,16 @@ Hello, my name is Laith Darras and I am studying Computer Science & Engineering 
 
 *Currently working on*
 - 15-unit coursework:
--   ff
+    - CSE 031: Computer Organization & Assembly Language
+    - ENGR 080: Statistical Modeling & Data Analysis
+    - ENGR 155: Engineering Economic Analysis
+    - MATH 023: Vector Calculus
+ - HackMerced IX
+ - ACM Cyber Sessions
+ - Teaching Assistant @ Codepath
+
+*Near future*
+- Revamping website and GitHub
 
 *Affiliations*
 - [ACM UCM](https://ucm.acm.org/), Special Interest Group (SIG) Cybersecurity Lead '23 - '24
