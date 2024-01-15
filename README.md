@@ -1,11 +1,12 @@
 # $ cat /home/laith/README.md
 
 #####
-Laith Darras
+Hello, my name is Laith Darras and I am studying Computer Science & Engineering Student @ UC Merced. My ultimate professional goals is to secure a good position in a competitive and creative engineering environment that will benefit from my creative ideas, experience, and collegiate skills and will expectantly add value to organizational operations.
 
 *Affiliations*
 - [ACM UCM](https://ucm.acm.org/), Special Interest Group (SIG) Cybersecurity Lead '23 - '24
-- [HackMerced](https://hackmerced.com/), Organizer - logistics coordination '23 - '24
+- [HackMerced](https://hackmerced.com/), Coordinator - logistics coordination '23 - '24
+- [CodePath](https://www.codepath.org/), Tech Fellow 
 
 *Workshops*
 - Challenge Day: In collaboration with the other SIGS, led and assisted solving challenges on OverTheWire bandit.
