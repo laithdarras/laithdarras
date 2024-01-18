@@ -1,7 +1,7 @@
 # $ cat /home/laith/README.md
 
 
-Hello, my name is Laith Darras and I am studying Computer Science & Engineering Student @ UC Merced. My ultimate professional goal is to secure a good position in a competitive and creative engineering environment that will benefit from my creative ideas, experience, and collegiate skills and will expectantly add value to organizational operations.
+Hello, my name is Laith Darras and I am studying Computer Science & Engineering Student @ UC Merced. My ultimate professional goal is to secure a good position in a competitive and creative engineering environment that will benefit from my creative ideas, experience, and collegiate skills while adding value to organizational operations.
 
 ***Currently working on***
 - 15-unit coursework:
