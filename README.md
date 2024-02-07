@@ -11,7 +11,7 @@ Hello, my name is Laith Darras and I am studying Computer Science & Engineering 
     - MATH 023: Vector Calculus
  - HackMerced IX
  - ACM Cyber Sessions
- - Tech Fellowship w/ CodePath
+ - Teaching Assistant w/ CodePath
 
 ***Near future***
 - Revamping website and GitHub
