@@ -5,7 +5,7 @@ Hello, my name is Laith Darras and I am studying Computer Science & Engineering 
 
 ***Currently working on***
 - Spring 2024 Coursework:
-    - CSE 031: Computer Organization & Assembly Language
+    - CSE 031: Computer Organization
     - ENGR 080: Statistical Modeling & Data Analysis
     - ENGR 155: Engineering Economic Analysis
     - MATH 023: Vector Calculus
