@@ -1,7 +1,7 @@
 # $ cat /home/laith/README.md
 
 
-Hello, my name is Laith Darras and I am studying Computer Science & Engineering Student @ UC Merced. My ultimate professional goal is to secure a good position in a competitive and creative engineering environment that will benefit from my creative ideas, experience, and collegiate skills while adding value to organizational operations.
+Helloo, nice to *virtually* meet you. I am Laith, an undergraduate student studying Computer Science & Engineering at the University of California, Merced looking to learn all sorts of things in technology. My interests and specializations lie in software and hardware for cybersecurity. 
 
 ***Currently working on***
 - Spring 2024 Coursework:
