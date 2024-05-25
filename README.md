@@ -1,7 +1,7 @@
 # $ cat /home/laith/README.md
 
 
-Helloo, nice to *virtually* meet you. I am Laith, an undergraduate student studying Computer Science & Engineering at the University of California, Merced looking to learn all sorts of things in technology. My interests and specializations lie in software and hardware for cybersecurity. 
+Helloo, nice to *virtually* meet you. I am Laith, an undergraduate student studying Computer Science & Engineering at the University of California, Merced, looking to learn all sorts of shenanigans in technology. My interests and specializations lie in software and hardware for cybersecurity. 
 
 ***Currently working on***
 - Spring 2024 Coursework:
