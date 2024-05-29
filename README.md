@@ -4,17 +4,17 @@
 Helloo, nice to *virtually* meet you. I am Laith, an undergraduate student studying Computer Science & Engineering at the University of California, Merced, looking to learn all sorts of shenanigans in technology. My interests and specializations lie in software and hardware for cybersecurity. 
 
 ***Currently working on***
-- Spring 2024 Coursework:
-    - CSE 031: Computer Organization
-    - ENGR 080: Statistical Modeling & Data Analysis
-    - ENGR 155: Engineering Economic Analysis
-    - MATH 023: Vector Calculus
- - HackMerced IX
- - ACM Cyber Sessions
- - Teaching Assistant w/ CodePath
+- IT Network Technician Internship @ University of California, Merced
+- Online STEM Instructor @ iD Tech
+- ACM Cyber Sessions
+- Upgrading and Updating Website/GitHub
 
 ***Near future***
-- Revamping website and GitHub
+- Fall 2024 Coursework:
+      - CSE 100: Algorithm Design & Analysis
+      - MATH 024: Linear Algebra & Differential Equations
+      - ENGR 180: Spatial Analysis & Modeling
+      - PHYS 008: Engineering Physics I
 
 ***Affiliations***
 - [ACM UCM](https://ucm.acm.org/), Special Interest Group (SIG) Cybersecurity Lead '23 - '24
