@@ -13,8 +13,8 @@ Helloo, nice to *virtually* meet you. I am Laith, an undergraduate student study
 - Fall 2024 Coursework:
   - CSE 100: Algorithm Design & Analysis
   - MATH 024: Linear Algebra & Differential Equations
-  - ENGR 180: Spatial Analysis & Modeling
   - PHYS 008: Engineering Physics I
+  - COGS 005: Introduction to Language & Linguistics
 
 ***Affiliations***
 - [ACM UCM](https://ucm.acm.org/), Special Interest Group (SIG) Cybersecurity Lead '23 - '24
