@@ -16,6 +16,8 @@ Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Sc
 - Revamping my personal website/GitHub
 
 ***Workshops***
+- [Wireshark Tutorial](https://docs.google.com/presentation/d/1vNO7S748xe_UC13znMxQrTSnGOspBvM5Vyz9mP6SBfg/edit#slide=id.p): Instructed how to effectively capture and analyze network traffic, gaining hands-on experience with packet analysis techniques to enhance their understanding of network security and troubleshooting.
+- [Cybersecurity Certifications](https://docs.google.com/presentation/d/1zzFZyQlpoMOEDAlCvY9rzY6ZH6vXCBNTpOz9QCqLVRU/edit#slide=id.g4dfce81f19_0_45): Participants explored various industry-recognized certifications, discussed their significance in career advancement, and developed personalized study plans to prepare for the exams.
 - Challenge Day: Collaborated with other SIGs (Special Interest Groups) to lead and assist in solving challenges on OverTheWire Bandit.
 - [Vulnerability Assessment](https://docs.google.com/presentation/d/1ClEA5VmBKmM5NXQXfjdY-aImnPm-pKxnvqWGcmaOydA/edit?usp=sharing): Taught students how to assess vulnerabilities in systems, featuring a live demo using Kali Linux to analyze a malicious IP address.
 - [Bash Training](https://docs.google.com/presentation/d/1hFHK7Jk5781yM9dm3Uh567RA3r1WjXhkb2DYWC_xLbw/edit?usp=sharing): Instructed students on writing Bash scripts to create a series of simple games.
