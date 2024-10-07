@@ -1,7 +1,7 @@
 # $ cat /home/laithdarras/README.md
 
 
-Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Science & Engineering at the University of California, Merced. I'm passionate about exploring the dynamic world of technology, with a focus on software for cybersecurity.
+Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Science & Engineering at the University of California, Merced. I'm passionate about exploring the dynamic world of technology, with a focus on software for cybersecurity. I love to document my learnings here and on my website, and I'd love for you to follow along on my journey (: 
 
 ***Currently working on***
 - Fall 2024 Coursework:
