@@ -1,4 +1,4 @@
-# $ cat /home/laith/README.md
+# $ cat /home/laithdarras/README.md
 
 
 Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Science & Engineering at the University of California, Merced. I'm passionate about exploring the dynamic world of technology, with a focus on software for cybersecurity.
