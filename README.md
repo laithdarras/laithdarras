@@ -4,13 +4,13 @@
 Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Science & Engineering at the University of California, Merced. I'm passionate about exploring the dynamic world of technology, with a focus on software for cybersecurity. I love to document my learnings here and on my website, and I'd love for you to follow along on my journey (: 
 
 ***Currently working on***
-- Fall 2024 Coursework:
-  - CSE 100: Algorithm Design & Analysis
-  - MATH 024: Linear Algebra & Differential Equations
-  - COGS 005: Introduction to Language & Linguistics
-- Resident Assistant at UCM
-- Cybersecurity Technical Support Mentor at CodePath
-- Preparing for upcoming internship season
+- Spring 2025 Coursework:
+  - CSE 150: Operating Systems
+  - CSE 179: Introduction to Parallel Computing
+  - PHYS 008: Physics I: Mechanics
+  - ENGR 156: Technical Writing for Scientists and Engineers
+- RA'ing at CAT Residence Hall
+- Cybersecurity Technical Support Intern at CodePath
 
 ***Near future***
 - Revamping my personal website/GitHub
