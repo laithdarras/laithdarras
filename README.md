@@ -7,7 +7,7 @@ Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Sc
 - Spring 2025 Coursework:
   - CSE 150: Operating Systems
   - CSE 179: Introduction to Parallel Computing
-  - PHYS 008: Physics I: Mechanics
+  - PHYS 008: Physics I: Classical Mechanics
   - ENGR 156: Technical Writing for Scientists and Engineers
 - RA'ing at CAT Residence Hall
 - Cybersecurity Technical Support Intern at CodePath
