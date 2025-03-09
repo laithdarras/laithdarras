@@ -9,6 +9,7 @@ Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Sc
   - PHYS 008: Physics I: Classical Mechanics
   - ENGR 156: Technical Writing for Scientists and Engineers
   - CRES 052: Power In Film
+  - TIP 102: Technical Interview Prep
 
 ***Near future***
 - Revamping my personal website/GitHub
