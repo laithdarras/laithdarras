@@ -1,28 +1,42 @@
-# $ cat /home/laithdarras/README.md
+# 👋 Hey there, I'm Laith!
 
+I'm a Computer Science & Engineering student at UC Merced, passionate about **building secure software** and exploring the intersection 
+of **cybersecurity and software development**. I use this space to document my projects.
 
-Hi there! I’m Laith, an undergraduate student pursuing a degree in Computer Science & Engineering at the University of California, Merced. I'm passionate about exploring the dynamic world of technology, with a focus on software for cybersecurity. I love to document my learnings here and on my website, and I'd love for you to follow along on my journey (: 
+---
 
-***Currently working on***
-- Spring 2025 Coursework:
-  - CSE 150: Operating Systems
-  - PHYS 008: Physics I: Classical Mechanics
-  - ENGR 156: Technical Writing for Scientists and Engineers
-  - CRES 052: Power In Film
-  - TIP 102: Technical Interview Prep
+## 🚀 What I'm Working On
 
-***Near future***
-- Revamping my personal website/GitHub
+- **Spring 2025 Coursework**  
+  `CSE 150: Operating Systems` · `PHYS 008: Physics Mechanics` · `ENGR 156: Technical Writing`  
+  `CRES 052: Power in Film`
 
-***Workshops***
-- [Wireshark Tutorial](https://docs.google.com/presentation/d/1vNO7S748xe_UC13znMxQrTSnGOspBvM5Vyz9mP6SBfg/edit#slide=id.p): Instructed how to effectively capture and analyze network traffic, gaining hands-on experience with packet analysis techniques to enhance their understanding of network security and troubleshooting.
-- [Cybersecurity Certifications](https://docs.google.com/presentation/d/1zzFZyQlpoMOEDAlCvY9rzY6ZH6vXCBNTpOz9QCqLVRU/edit#slide=id.g4dfce81f19_0_45): Participants explored various industry-recognized certifications, discussed their significance in career advancement, and developed personalized study plans to prepare for the exams.
-- Challenge Day: Collaborated with other SIGs (Special Interest Groups) to lead and assist in solving challenges on OverTheWire Bandit.
-- [Vulnerability Assessment](https://docs.google.com/presentation/d/1ClEA5VmBKmM5NXQXfjdY-aImnPm-pKxnvqWGcmaOydA/edit?usp=sharing): Taught students how to assess vulnerabilities in systems, featuring a live demo using Kali Linux to analyze a malicious IP address.
-- [Bash Training](https://docs.google.com/presentation/d/1hFHK7Jk5781yM9dm3Uh567RA3r1WjXhkb2DYWC_xLbw/edit?usp=sharing): Instructed students on writing Bash scripts to create a series of simple games.
-- [Intro to Cybersecurity](https://docs.google.com/presentation/d/16rIOb4OXDLTl7fMJLLbRUieTu9z9kTiZHWUp6i-gKDE/edit?usp=sharing): Introduced students to the dynamic field of cybersecurity with an engaging phishing simulation activity.
+- **Personal Projects**  
+    - Currently revamping my [portfolio website](https://laithdarras.github.io) and reorganizing GitHub repos.
+    - ...
+  
 
-***Contacts***
-- [My Personal Website](https://laith.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/laith-darras/)
-- Email: laith.s.darras@gmail.com
+---
+
+## 🧠 Technical Workshops
+
+I love teaching and sharing what I learn! Here are some of the workshops I’ve led:
+
+- 🧪 **Wireshark Tutorial** – Live packet capture, filtering, and protocol analysis  
+- 🎓 **Cybersecurity Certifications 101** – Exploring cert paths and study plans  
+- 🧨 **Challenge Day** – Led OverTheWire Bandit walkthroughs  
+- 🔍 **Vulnerability Assessment** – Live demo analyzing a malicious IP using Kali Linux  
+- 🐚 **Bash Scripting** – Taught scripting basics through simple terminal-based games  
+- 🛡️ **Intro to Cybersecurity** – Ran phishing simulation & debrief with new learners
+
+---
+
+## 🌐 Connect With Me
+
+- 💻 [My Website](https://laithdarras.github.io/)  
+- 🔗 [LinkedIn](https://linkedin.com/in/laith-darras/)  
+- 📬 Email: [laith.s.darras@gmail.com](mailto:laith.s.darras@gmail.com)
+
+---
+
+_Thanks for stopping by! Feel free to check out my pinned repos and follow along on my tech journey :)_
