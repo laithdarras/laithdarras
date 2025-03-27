@@ -14,7 +14,7 @@ of **cybersecurity and software development**. I use this space to document my p
 - **Personal Projects**  
     - Currently revamping my [portfolio website](https://laithdarras.github.io) and reorganizing GitHub repos.
     - [**YourNephron**](https://github.com/laithdarras/YourNephron) – Full-stack web app built for a nonprofit focused on kidney health.
-    - [**Technical Interview Prep**](https://github.com/laithdarras/technical-interview-prep/) – A collection of notes and code for mastering data structures, algorithms, and Python coding patterns.  
+    - [**Technical Interview Prep**](https://github.com/laithdarras/technical_interview_prep/) – A collection of notes and code for mastering data structures, algorithms, and Python coding patterns.  
 
 ---
 
