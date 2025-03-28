@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Laith!
 
-I'm a Computer Science & Engineering student at UC Merced, passionate about **building secure software** and exploring the intersection of **cybersecurity and software development**. I use this space to document my technical journey - from full-stack web apps and system-level coursework to hands-on coding projects.
+I'm a Computer Science & Engineering student at UC Merced, passionate about **building secure software** and exploring the intersection of **cybersecurity and software development**. I use this space to document my technical journey! :D
 
 ---
 
