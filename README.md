@@ -39,7 +39,7 @@ I love teaching and sharing what I learn! Here are some of the workshops I’ve 
 
 ---
 
-![Laith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laithdarras&show_icons=true&theme=default&count_private=true)
+![Laith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laithdarras&show_icons=true&theme=dark&count_private=true)
 
 ---
 
