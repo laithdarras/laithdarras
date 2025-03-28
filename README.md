@@ -7,7 +7,7 @@ I'm a Computer Science & Engineering student at UC Merced, passionate about **bu
 ## 🚀 Current Focus
 
 - **Spring 2025 Coursework**  
-  `CSE 150: Operating Systems` · `PHYS 008: Classical Mechanics` · `ENGR 156: Technical Writing` · `CRES 052: Power in Film`
+  `CSE 150: Operating Systems` · `PHYS 008: Physics I - Mechanics` · `ENGR 156: Technical Writing` · `CRES 052: Power in Film`
 
 - **Personal Projects**  
   - 🔧 [**YourNephron**](https://github.com/laithdarras/YourNephron) – Full-stack web app built for a nonprofit focused on kidney health.  
