@@ -12,7 +12,7 @@ I'm a Computer Science & Engineering student at UC Merced, passionate about **bu
 - **Personal Projects**  
   - [**YourNephron**](https://github.com/laithdarras/YourNephron) – Full-stack web app built for a nonprofit focused on kidney health.  
   - [**Technical Interview Prep**](https://github.com/laithdarras/technical_interview_prep/) – Structured DSA/code prep notes & Python examples.  
-  - [**Portfolio Website**](https://laithdarras.github.io) – Currently being redesigned for better structure and showcase.
+  - [**Portfolio Website**](https://laith.vercel.app/) – Currently being redesigned for better structure and showcase.
 
 ## Learning & Resources
 
