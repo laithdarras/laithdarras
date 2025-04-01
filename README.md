@@ -20,10 +20,8 @@ A few things I’ve built:
 
 - [**YourNephron**](https://github.com/laithdarras/YourNephron)  
   Full-stack web app developed for a nonprofit focused on kidney health.
-
 - [**Zero-G Knockout (NASA Hackathon)**](https://github.com/laithdarras/Cosmic-Pioneers)  
   React-based meta app that generates personalized astronaut workout playlists using biometric data. Includes real-time mood tracking with **Chart.js** and an integrated **AR fitness game**.
-
 - [**Operating Systems Kernel Project**](https://github.com/laithdarras/Operating-Systems-Kernel-Project)  
   Simulated OS kernel built in Java, implementing **thread synchronization**, **system call support**, and **memory-safe user-kernel data transfer**.
 
