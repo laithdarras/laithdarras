@@ -42,6 +42,12 @@ I'm a Computer Science & Engineering student at UC Merced, focused on **systems*
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithdarras&layout=compact&theme=dark" width="48%" />
 </p>
 
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=laithdarras&theme=dark" />
+</p>
+
+
 ---
 
 ## 🔗 Connect With Me
