@@ -40,7 +40,6 @@ I'm a Computer Science & Engineering student at UC Merced, focused on **systems*
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=laithdarras&show_icons=true&theme=dark&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laithdarras&layout=compact&theme=dark" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=laithdarras&theme=dark" />
 </p>
 
 
