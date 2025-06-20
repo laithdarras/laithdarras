@@ -15,7 +15,7 @@ I'm a Computer Science & Engineering student at UC Merced, focused on **systems*
 ## 📚 Learning Repos
 
 - [**technical_interview_prep**](https://github.com/laithdarras/technical_interview_prep): Curated DSA notes, Python code snippets, and interview prep strategies.
-- [**operating-systems-study**](https://github.com/laithdarras/operating-systems-study): Notes and code from OS concepts like memory, scheduling, and file systems.
+- [**learnng-operating-systems**](https://github.com/laithdarras/operating-systems-study): Notes and code from OS concepts like memory, scheduling, and file systems.
 - [**technical-writing**](https://github.com/laithdarras/technical-writing): Writing guides and engineering-focused documentation best practices.
 
 ---
