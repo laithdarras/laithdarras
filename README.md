@@ -46,7 +46,7 @@ I'm a Computer Science & Engineering student at UC Merced, focused on **systems*
 
 ## 🔗 Connect With Me
 
-- 🌐 [laith.vercel.app](https://laith.vercel.app)
+- 🌐 [Website](https://laith.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/laith-darras/)
 - ✉️ [Email](mailto:laith.s.darras@gmail.com)
 
