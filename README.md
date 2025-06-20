@@ -1,55 +1,41 @@
-# Hey there, I'm Laith!
+# 👋 Hey, I'm Laith
 
-I'm a Computer Science & Engineering student at UC Merced, passionate about **building secure software** and exploring the intersection of **cybersecurity and software development**.
-
----
-
-## Current Focus
-
-- **Spring 2025 Coursework**  
-  `CSE 150: Operating Systems` · `PHYS 008: Physics I - Mechanics` · `ENGR 156: Technical Writing` · `CRES 052: Power in Film`
-
-- **Personal Projects**  
-  - [**YourNephron**](https://github.com/laithdarras/YourNephron) – Full-stack web app built for a nonprofit focused on kidney health.  
-  - [**Technical Interview Prep**](https://github.com/laithdarras/technical_interview_prep/) – Structured DSA/code prep notes & Python examples.  
-  - [**Portfolio Website**](https://laith.vercel.app/) – Currently being redesigned for better structure and showcase.
-
-## Projects
-
-A few things I’ve built:
-
-- [**YourNephron**](https://github.com/laithdarras/YourNephron)  
-  Full-stack web app developed for a nonprofit focused on kidney health.
-- [**Zero-G Knockout (NASA Hackathon)**](https://github.com/laithdarras/Cosmic-Pioneers)  
-  React-based meta app that generates personalized astronaut workout playlists using biometric data. Includes real-time mood tracking with **Chart.js** and an integrated **AR fitness game**.
-- [**Operating Systems Kernel Project**](https://github.com/laithdarras/Operating-Systems-Kernel-Project)  
-  Simulated OS kernel built in Java, implementing **thread synchronization**, **system call support**, and **memory-safe user-kernel data transfer**.
-
-## Learning & Resources
-
-Here are some repos where I document my learning and share useful resources:
-- [**Technical Writing**](https://github.com/laithdarras/technical-writing/tree/main) – Guides and tips on technical writing for engineers.
-- [**Operating Systems Study**](https://github.com/laithdarras/operating-systems-study) – Notes and resources for mastering operating systems concepts.
-- [**Technical Interview Prep**](https://github.com/laithdarras/technical_interview_prep) – Curated notes, python solutions, and tips for technical interviews.
+I'm a Computer Science & Engineering student at UC Merced, focused on **systems**, **security**, and **software engineering**. I like building things that are fast, safe, and useful. All while learning how the entire stack works along the way.
 
 ---
 
-## Languages and Tools
+## 🔧 Current Focus
+
+- **Areas:** Systems Programming · Cybersecurity · Applied AI · Software Engineering
+- **Internship:** SWE Intern @ Fiducia AI (Summer 2025)
+- **Fall 2025 Courses:** Computer Networks · Distributed Systems · Digital Circuits
+
+---
+
+## 📚 Learning Repos
+
+- [**technical_interview_prep**](https://github.com/laithdarras/technical_interview_prep): Curated DSA notes, Python code snippets, and interview prep strategies.
+- [**operating-systems-study**](https://github.com/laithdarras/operating-systems-study): Notes and code from OS concepts like memory, scheduling, and file systems.
+- [**technical-writing**](https://github.com/laithdarras/technical-writing): Writing guides and engineering-focused documentation best practices.
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=laithdarras&show_icons=true&theme=dark&count_private=true" width="48%" />
@@ -58,10 +44,10 @@ Here are some repos where I document my learning and share useful resources:
 
 ---
 
-## Connect With Me
+## 🔗 Connect With Me
 
-- [Portfolio Website](https://laithdarras.github.io)  
-- [LinkedIn](https://linkedin.com/in/laith-darras/)  
-- [Email](mailto:laith.s.darras@gmail.com)
+- 🌐 [laith.vercel.app](https://laith.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/laith-darras/)
+- ✉️ [Email](mailto:laith.s.darras@gmail.com)
 
-_Thanks for stopping by! Feel free to check out my pinned repos and follow along on my tech journey :)_
+_Thanks for dropping by! Check out my pinned repos to see what I’ve been working on._
