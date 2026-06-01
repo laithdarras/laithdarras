@@ -1,8 +1,6 @@
-# Hello there
+# Hey there!
 
 I'm Laith, a recent Computer Science & Engineering graduate from UC Merced.
-
-I enjoy building software and learning how things work.
 
 The repositories here are a collection of coursework and personal projects.
 
