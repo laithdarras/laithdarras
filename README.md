@@ -1,6 +1,6 @@
 # Hey there!
 
-I'm Laith, a recent Computer Science & Engineering graduate from UC Merced.
+I'm a recent Computer Science & Engineering graduate from UC Merced.
 
 The repositories here are a collection of coursework and personal projects.
 
